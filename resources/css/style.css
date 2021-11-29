@@ -3,15 +3,33 @@
     font-family: Verdana;
     text-align: center;
     background-color: black;
+    color: white;
 }
 /*types*/
 a{
     color: aquamarine;
     font-size: 16px;
 }
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+small{
+    text-align: right;
+    color: gray;
+}
 /*classes*/
 .main-head{
     font-size: 50px;
-    color: white;
     font-weight: normal;
+}
+.section-p{
+    font-size: 21px;
+    color: gray;
+}
+/*ids*/
+#copy{
+    text-align: right;
+    color: gray;
+    font-size: 15px;
 }
