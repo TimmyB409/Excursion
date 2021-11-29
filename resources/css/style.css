@@ -1,0 +1,17 @@
+/*universal*/
+*{
+    font-family: Verdana;
+    text-align: center;
+    background-color: black;
+}
+/*types*/
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+/*classes*/
+.main-head{
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+}
